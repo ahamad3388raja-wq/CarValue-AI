@@ -1,0 +1,11 @@
+{
+  "brand": "Hyundai",
+  "year": 2019,
+  "km_driven": 50000,
+  "fuel": "Petrol",
+  "transmission": "Manual",
+  "owner": "First Owner",
+  "mileage": 17.0,
+  "engine_cc": 1497,
+  "max_power_bhp": 113.0
+}

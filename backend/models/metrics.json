@@ -1,0 +1,8 @@
+{
+  "mae": 67439.11,
+  "rmse": 91503.11,
+  "r2": 0.6425,
+  "test_rows": 320,
+  "training_rows": 1280,
+  "note": "Metrics are from synthetic demo data; do not treat as real-market performance."
+}
